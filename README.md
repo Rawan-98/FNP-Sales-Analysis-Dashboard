@@ -54,6 +54,5 @@ The *Dashboard for the full year 2023* is presented below as a single image summ
 - Business Insights & Storytelling  
 - Analytical Thinking & Problem Solving
 
----
 
-r internship as a Data Analyst* where I can apply and further develop these skills in a professional environment.
+
