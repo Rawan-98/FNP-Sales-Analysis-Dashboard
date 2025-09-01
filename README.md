@@ -24,7 +24,7 @@ These datasets were used to analyze sales trends, customer behavior, and product
 
 The *Dashboard for the full year 2023* is presented below as a single image summarizing the key business insights:
 
-![Full Year Dashboard]("C:\Users\ahmed\Desktop\images\dashboard_overview.png")
+![Full Year Dashboard](images/dashboard_overview.png)
 
 > The dashboard demonstrates my ability to analyze data, identify trends, and present insights visually—key skills for a *Data Analyst role*.
 
